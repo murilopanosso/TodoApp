@@ -10,5 +10,4 @@ cd frontend
 npm install
 npm run dev
 
-//TODO -- FINISH README, I´m too sleepy to finish this up now, its coming soon =)
 
